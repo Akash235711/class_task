@@ -6,6 +6,8 @@
       <sourceFolder url="file://$MODULE_DIR$/problem1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/problem2" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/problem3" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problem4" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/problem5" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
